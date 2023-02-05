@@ -9,9 +9,8 @@ This IOS Mobile app is designed to gather basic details about a school student a
 
 ![Codepath](https://user-images.githubusercontent.com/82910305/216848428-a3a32cc8-12fe-495b-8e20-3d181f7aca5f.gif)
 
-Link to gif on Imgur https://imgur.com/gallery/NIveIA9
-
-
+Link to gif on Imgur: https://imgur.com/gallery/NIveIA9
+Link to video in mp4: https://i.imgur.com/ZRDhvDK.mp4
 
 
 ### Required Features
