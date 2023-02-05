@@ -3,15 +3,16 @@
 
 ### App Description
 
-`TODO://` Add app description
+This IOS Mobile app is designed to gather basic details about a school student and present them in a pop up box.
 
 ### App Walk-though
 
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
+![Codepath](https://user-images.githubusercontent.com/82910305/216848428-a3a32cc8-12fe-495b-8e20-3d181f7aca5f.gif)
 
-<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+Link to gif on Imgur https://imgur.com/gallery/NIveIA9
 
-`TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
+
+
 
 ### Required Features
 
@@ -25,5 +26,5 @@
 ### Optional Features
 
 - [ ] 1. User can tap a button to change the color of the background view
-- [ ] 3. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
-- [ ] 4. Any stylistic changes that are not default options (Comment this here)
+- [ x ] 3. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
+- [ x ] 4. Any stylistic changes that are not default options (Changed background colour and styling of text, labels, sliders, etc. )
