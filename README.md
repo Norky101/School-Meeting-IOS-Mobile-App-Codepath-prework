@@ -5,14 +5,6 @@
 
 This IOS Mobile app is designed to gather basic details about a school student and present them in a pop up box.
 
-### App Walk-though
-
-![Codepath](https://user-images.githubusercontent.com/82910305/216848428-a3a32cc8-12fe-495b-8e20-3d181f7aca5f.gif)
-
-Link to gif on Imgur: https://imgur.com/gallery/NIveIA9
-Link to video in mp4: https://i.imgur.com/ZRDhvDK.mp4
-
-
 ### Required Features
 
 - [ x ] 1. App displays an image of a school's logo
@@ -24,6 +16,13 @@ Link to video in mp4: https://i.imgur.com/ZRDhvDK.mp4
 
 ### Optional Features
 
-- [ ] 1. User can tap a button to change the color of the background view
 - [ x ] 3. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
 - [ x ] 4. Any stylistic changes that are not default options (Changed background colour and styling of text, labels, sliders, etc. )
+
+### App Walk-though
+
+![Codepath](https://user-images.githubusercontent.com/82910305/216848428-a3a32cc8-12fe-495b-8e20-3d181f7aca5f.gif)
+
+Link to gif on Imgur: https://imgur.com/gallery/NIveIA9
+Link to video in mp4: https://i.imgur.com/ZRDhvDK.mp4
+
